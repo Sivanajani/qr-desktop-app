@@ -2,6 +2,13 @@
 
 A simple Python desktop application to generate QR codes from any text or link — with support for embedding custom logos and saving high-resolution QR images.
 
+[![Download](https://img.shields.io/badge/⬇%20Download%20QR_App-v1.0.0-blue?style=for-the-badge)](https://github.com/Sivanajani/qr-desktop-app/releases/download/v1.0.0/qr_app.exe)
+
+> ⚠️ Note: Windows Defender or antivirus software might block the `.exe` file since it is unsigned.  
+> This is a false positive – the app is safe and built with Python using PyInstaller.  
+> You can safely add it to your antivirus exceptions.
+
+
 ![QR App Preview](assets/preview.png)
 
 ## ✨ Features
@@ -29,7 +36,7 @@ cd qr-desktop-app
 pip install -r requirements.txt
 ```
 
-4. Run the App
+3. Run the App
 ```bash
 python qr_app.py
 ```
@@ -43,4 +50,12 @@ python qr_app.py
 
 ---
 ## 📄 License
-MIT License © 2025 Sivanajani Sivakumar
+[MIT License](LICENSE) © 2025 Sivanajani Sivakumar
+
+
+---
+
+## 🙋‍♀️ About the Author
+
+Created by [Sivanajani Sivakumar](https://sivanajani.ch/) —  
+BSc in Medical Informatics · Pythonista · GUI & Web Enthusiast  
